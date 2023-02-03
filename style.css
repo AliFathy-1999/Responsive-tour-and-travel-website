@@ -1,0 +1,19 @@
+body{
+    overflow-x: hidden;
+}
+.title-font{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+}
+.feature-desc {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #FFFFFF;
+    border-top-right-radius: 0.3em;
+    padding: 1em;
+    
+}
+.position-div{
+    margin: 10%;
+}
